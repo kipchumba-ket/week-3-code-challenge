@@ -9,11 +9,11 @@ To install the repository on your machine follow the instructions below;
 Open a terminal on your computer.
 
 Clone this repo to your machine using the ssh key provided:-
-
 git@github.com:kipchumba-ket/week-3-code-challenge.git
-Change directory to the code challenge folder.
 
+Change directory to the code challenge folder.
   cd week-3-code-challenge
+
 Open it in a text editor of your choice.
 
 # PROJECT SETUP.

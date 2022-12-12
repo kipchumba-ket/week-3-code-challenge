@@ -19,7 +19,7 @@ Open it in a text editor of your choice.
 #### PROJECT SETUP.
 The app fetches data from a mock server and renders it on the page.When the page loads the first movie on list is displayed on the right side.On the left side,a list of the available movies is shown.One can view the details, that is the title,the runtime,the showtime,the number of tickets available and a brief description of what the movies is about by clicking on its name.There is a buy tickets button where a user presses if he/she wants to purchase a ticket.If the tickets available are 0 it displays "No tickets available" at the tickets section.
 
-RUNNING THE APPLICATION
+##### RUNNING THE APPLICATION
 To run the app on your machine;
 
 Download the Json server on your machine if you do not have it.
@@ -37,8 +37,8 @@ There is a buy tickets button available where the user presses to buy tickets.
 
 If tickets are equal to 0 a "No tickets available " message is displayed.
 
-AUTHOR.
+# AUTHOR.
 This project was done by: Kipchumba Elly
 
-LICENSE.
+## LICENSE.
 This project is under license Apache 2.0

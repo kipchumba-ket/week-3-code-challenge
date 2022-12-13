@@ -26,7 +26,7 @@ Download the Json server on your machine if you do not have it.
 
 Open the terminal and run the command while in the cloned directory;
 
-  json-server --watch db.json
+    json-server --watch db.json
 Open the html file in the browser of you choice.
 
 The first movie and a list of all the movies is displayed on the left side.
